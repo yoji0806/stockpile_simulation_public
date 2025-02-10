@@ -1,6 +1,6 @@
 # stockpile_simulation_publiuc
 
-現在、ソースコードが含まれるレポジトリはprivateにしています。
+現在、ソースコードが含まれるレポジトリはprivateにしています。  
 メディアへの掲載情報はこちら
 
 
