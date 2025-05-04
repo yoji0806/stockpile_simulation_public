@@ -1,21 +1,27 @@
-# stockpile_simulation_publiuc
+## 概要（Japanese）
 
-現在、ソースコードが含まれるレポジトリはprivateにしています。  
-メディアへの掲載情報はこちら
+<img width="800" alt="stockpile demand simulator" src="./images/about_project_jp.jpg">
+<br />
+
+## プロジェクトの略歴
+
+メディアへの掲載は[こちら](https://docs.google.com/document/d/17jxILKQqHDKbV4taA3Bk9zc9QRoaRBVgLixNeis8jHk/edit?usp=sharing)
+
+<img width="800" alt="stockpile demand simulator" src="./images/timeline.jpg">
+<br />
 
 
-## [About the Project （English）](https://drive.google.com/file/d/1akOgm2fEs7MvnehQIvKutytBIMOo1fe8/view?usp=sharing)
-![English ver  2023年度グッドデザイン・ニューホープ賞 001](https://github.com/user-attachments/assets/2251e4da-ac47-4528-92d2-4bcdbb550577)
 
+
+
+## About the Project （English）
+
+<img width="800" alt="stockpile demand simulator" src="./images/about_project_en.jpg">
+<br /><br />  
 
 ### a poster url: https://drive.google.com/file/d/1akOgm2fEs7MvnehQIvKutytBIMOo1fe8/view?usp=sharing
 
 
-# 概要（Japanese）
-
-![概要(Japanese)](https://github.com/yoji0806/stockpile_simulation/assets/40899163/b5c95211-4664-4824-8245-c78f53822815)
-
-<br />
 
 
 
